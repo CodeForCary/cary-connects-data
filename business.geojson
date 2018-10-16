@@ -30,13 +30,54 @@
         "name": "Bond Brothers Beer Company",
         "website": "www.bondbrothersbeer.com",
         "phone": "919.459.2670",
-        "note": "Food Trucks: https://www.bondbrothersbeer.com/food-trucks"
+        "note": "Food Trucks: https://www.bondbrothersbeer.com/food-trucks",
+        "address": "202 E Cedar St, Cary, NC 27511"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -78.77780377864838,
           35.78825437301576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "pharmacy",
+        "name": "Ashworth Drugs",
+        "website": "http://www.ashworthdrugs.com/",
+        "phone": "(919) 467-1877",
+        "Notes": "Pharmacy, hot dogs, shakes and more",
+        "address": "105 W Chatham St, Cary, NC 27511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78140598535538,
+          35.78719259295397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery",
+        "name": "Cary Arts Center",
+        "address": "101 Dry Ave, Cary, NC 27511",
+        "website": "https://www.townofcary.org/recreation-enjoyment/facilities/cary-arts-center",
+        "phone": "(919) 469-4069",
+        "note": "431-seat Theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78130406141281,
+          35.78270380452852
         ]
       }
     }
