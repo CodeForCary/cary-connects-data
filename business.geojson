@@ -80,6 +80,26 @@
           35.78270380452852
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "name": "Jordan Lake Brewing Company",
+        "address": "320 E Durham Rd, Cary, NC 27513",
+        "website": "http://jordanlakebrewing.com/",
+        "phone": "(919) 694-5096",
+        "note": "Food Trucks: http://jordanlakebrewing.com/#food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77575457096098,
+          35.79013856254839
+        ]
+      }
     }
   ]
 }
