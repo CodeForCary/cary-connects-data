@@ -1,1 +1,44 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "bakery",
+        "name": "La Farm Bakery",
+        "address": "220 W. Chatham Street, Cary, NC 27511",
+        "website": "www.lafarmbakery.com",
+        "phone": "919-650-3117",
+        "note": "Bakery & Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78390043973923,
+          35.78737100780831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "beer",
+        "name": "Bond Brothers Beer Company",
+        "website": "www.bondbrothersbeer.com",
+        "phone": "919.459.2670",
+        "note": "Food Trucks: https://www.bondbrothersbeer.com/food-trucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77780377864838,
+          35.78825437301576
+        ]
+      }
+    }
+  ]
+}
