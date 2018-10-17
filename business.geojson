@@ -206,7 +206,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "garden",
         "name": "Cary Florist",
         "address": "100 Parkthrough Street, Cary, NC 27511",
         "website": "www.caryflorist.com",
@@ -278,6 +278,66 @@
         "coordinates": [
           -78.78542125225067,
           35.78671391697584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "name": "City Garden Design",
+        "address": "266 W. Chatham Street, Cary, NC 27511",
+        "website": "www.citygardendesign.com",
+        "phone": "919-538-4247",
+        "note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7853729724884,
+          35.7871795381928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "name": "Cary Convenience and Tobacco",
+        "address": "260 W. Chatham Street, Cary, NC 27511",
+        "website": "",
+        "phone": "404-578-0372",
+        "note": "Convenience Store - Sells Propane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78470778465271,
+          35.787362304653975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "clothing-store",
+        "name": "May Tailor and Cleaners",
+        "address": "258 W. Chatham Street, Cary, NC 27511",
+        "website": "",
+        "phone": "919-467-1152",
+        "note": "Tailor/Cleaner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78460049629211,
+          35.78737971096168
         ]
       }
     }
