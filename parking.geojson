@@ -237,7 +237,13 @@
         "stdParking": -1,
         "hcParking": -1,
         "elecParking": 0,
-        "restrictions": "Church hours, We & Su"
+        "restrictions": "Church hours, We & Su",
+        "entrance1": "",
+        "e1act": "",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "",
+        "privateowned": ""
       },
       "geometry": {
         "type": "Polygon",
