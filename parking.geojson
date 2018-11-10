@@ -762,7 +762,7 @@
         "restrictions": "",
         "e1act": "true",
         "note": "",
-        "entrance1": "35.789145, -78.778944",
+        "entrance1": "-78.778944, 35.789145",
         "entrance2": "-78.778388, 35.790087",
         "e2act": "true",
         "townowned": "true"
@@ -823,7 +823,12 @@
         "stdParking": 116,
         "hcParking": 12,
         "elecParking": 0,
-        "restrictions": ""
+        "restrictions": "",
+        "entrance1": "-78.783179, 35.788383",
+        "e1act": "true",
+        "entrance2": "-78.781301, 35.788301",
+        "e2act": "true",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -905,7 +910,12 @@
         "stdParking": 33,
         "hcParking": 0,
         "elecParking": 0,
-        "restrictions": "Some reserved Bank Parking"
+        "restrictions": "Some reserved for Bank Parking",
+        "entrance1": "-78.781313, 35.787875",
+        "e1act": "true",
+        "entrance2": "-78.782113, 35.787328",
+        "e2act": "true",
+        "townowned": "false"
       },
       "geometry": {
         "type": "Polygon",
@@ -987,7 +997,13 @@
         "stdParking": 50,
         "hcParking": 5,
         "elecParking": 0,
-        "restrictions": "None"
+        "restrictions": "None",
+        "note": "",
+        "entrance1": "-78.777416, 35.788570",
+        "e1act": "true",
+        "entrance2": "-78.777036, 35.787597",
+        "e2act": "true",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -1037,7 +1053,11 @@
         "stdParking": -1,
         "hcParking": -1,
         "elecParking": 0,
-        "restrictions": "After PO hours only"
+        "restrictions": "After PO hours only",
+        "entrance1": "-78.781130, 35.786063",
+        "note": "",
+        "e1act": "true",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -1099,7 +1119,13 @@
         "stdParking": -1,
         "hcParking": -1,
         "elecParking": 0,
-        "restrictions": "After LaFarm Hours"
+        "restrictions": "After LaFarm Hours",
+        "entrance1": "-78.783405, 35.787625",
+        "note": "",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "false"
       },
       "geometry": {
         "type": "Polygon",
@@ -1141,7 +1167,13 @@
         "stdParking": -1,
         "hcParking": -1,
         "elecParking": 0,
-        "restrictions": "After LaFarm hours only"
+        "restrictions": "After LaFarm hours only",
+        "note": "",
+        "entrance1": "-78.784268, 35.787195",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "false"
       },
       "geometry": {
         "type": "Polygon",
@@ -1180,10 +1212,13 @@
         "fill": "#00fdff",
         "fill-opacity": 0.5,
         "name": "Post Office Waldo Street",
-        "stdParking": 23,
+        "stdParking": 15,
         "hcParking": 0,
         "elecParking": 0,
-        "restrictions": "After PO hours only"
+        "restrictions": "After PO hours only",
+        "entrance1": "-78.780472, 35.786549",
+        "e1act": "true",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -1225,7 +1260,13 @@
         "stdParking": 56,
         "hcParking": 4,
         "elecParking": 0,
-        "note": ""
+        "note": "",
+        "restrictions": "",
+        "entrance1": "-78.777656, 35.787582",
+        "e1act": "true",
+        "entrance2": "-78.778557, 35.787629",
+        "e2act": "true",
+        "townowned": "false"
       },
       "geometry": {
         "type": "Polygon",
@@ -1291,7 +1332,12 @@
         "stdParking": 45,
         "hcParking": 0,
         "elecParking": 0,
-        "note": ""
+        "note": "",
+        "restrictions": "",
+        "entrance1": "-78.783256, 35.786783",
+        "e1act": "true",
+        "entrance2": "",
+        "townowned": "false"
       },
       "geometry": {
         "type": "Polygon",
@@ -1345,7 +1391,12 @@
         "stdParking": 57,
         "hcParking": 2,
         "elecParking": 0,
-        "note": "After Hours Only"
+        "note": "Public After Business Hours",
+        "e1act": "true",
+        "entrance1": "-78.781310, 35.786636",
+        "entrance2": "-78.781783, 35.787214",
+        "e2act": "true",
+        "townowned": "false"
       },
       "geometry": {
         "type": "Polygon",
