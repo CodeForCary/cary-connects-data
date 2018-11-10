@@ -13,7 +13,13 @@
         "stdParking": 16,
         "hcParking": 4,
         "elecParking": 4,
-        "restrictions": "None"
+        "restrictions": "None",
+        "note": "",
+        "entrance1": "-78.781858, 35.782396",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -55,7 +61,12 @@
         "stdParking": 13,
         "hcParking": 0,
         "elecParking": 0,
-        "restrictions": "None"
+        "restrictions": "None",
+        "entrance1": "-78.782016, 35.782240 ",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -125,7 +136,12 @@
         "stdParking": 45,
         "hcParking": 5,
         "elecParking": 0,
-        "restrictions": ""
+        "restrictions": "",
+        "entrance1": "-78.781331, 35.784617",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -187,7 +203,11 @@
         "stdParking": 97,
         "hcParking": 5,
         "elecParking": 0,
-        "restrictions": "After School M-F"
+        "restrictions": "After School M-F",
+        "entrance1": "-78.782568, 35.781729",
+        "e1act": "true",
+        "entrance2": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -242,8 +262,7 @@
         "e1act": "",
         "entrance2": "",
         "e2act": "",
-        "townowned": "",
-        "privateowned": ""
+        "townowned": ""
       },
       "geometry": {
         "type": "Polygon",
