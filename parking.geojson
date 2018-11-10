@@ -254,15 +254,15 @@
         "fill": "#ff40ff",
         "fill-opacity": 0.5,
         "name": "Methodist Church",
-        "stdParking": -1,
-        "hcParking": -1,
+        "stdParking": 214,
+        "hcParking": 0,
         "elecParking": 0,
         "restrictions": "Church hours, We & Su",
-        "entrance1": "",
-        "e1act": "",
-        "entrance2": "",
-        "e2act": "",
-        "townowned": ""
+        "entrance1": "-78.778684, 35.785795",
+        "e1act": "true",
+        "entrance2": "-78.779628, 35.786523",
+        "e2act": "true",
+        "townowned": "false"
       },
       "geometry": {
         "type": "Polygon",
@@ -312,7 +312,13 @@
         "stdParking": 19,
         "hcParking": 0,
         "elecParking": 0,
-        "restrictions": "4 reserved 9a-6p"
+        "restrictions": "4 spots reserved 9a-6p",
+        "e1act": "true",
+        "note": "",
+        "entrance1": "-78.780108, 35.787320",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "false"
       },
       "geometry": {
         "type": "Polygon",
@@ -354,7 +360,13 @@
         "stdParking": 33,
         "hcParking": 2,
         "elecParking": 0,
-        "restrictions": "Reverse Parking, One-Way Street, Church We & Su"
+        "restrictions": "One-Way Street",
+        "note": "Reverse Parking Required",
+        "entrance1": "-78.781078, 35.786592",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -396,7 +408,12 @@
         "stdParking": 30,
         "hcParking": 4,
         "elecParking": 0,
-        "restrictions": "None"
+        "restrictions": "None",
+        "note": "",
+        "entrance1": "-78.781086, 35.788293",
+        "e1act": "true",
+        "entrance2": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -438,7 +455,11 @@
         "stdParking": 15,
         "hcParking": 0,
         "elecParking": 0,
-        "restrictions": "None"
+        "restrictions": "None",
+        "entrance1": " -78.780738, 35.788625",
+        "e1act": "true",
+        "entrance2": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -480,7 +501,12 @@
         "stdParking": 36,
         "hcParking": 4,
         "elecParking": 0,
-        "restrictions": "Town Hall Hours"
+        "restrictions": "Town Hall Hours",
+        "entrance1": "-78.780766, 35.788708",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -602,7 +628,12 @@
         "stdParking": 34,
         "hcParking": 2,
         "elecParking": 0,
-        "restrictions": "None"
+        "restrictions": "None",
+        "e1act": "true",
+        "entrance1": "-78.780305, 35.790111",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -677,10 +708,16 @@
         "fill": "#ff2600",
         "fill-opacity": 0.5,
         "name": "Cary Town Hall Parking Deck",
-        "stdParking": -1,
-        "hcParking": -1,
-        "elecParking": -1,
-        "restrictions": ""
+        "stdParking": 432,
+        "hcParking": 0,
+        "elecParking": 2,
+        "restrictions": "29 reserved for Town Vehicles",
+        "e1act": "true",
+        "note": "",
+        "entrance1": "-78.778708, 35.790191",
+        "entrance2": "-78.779914, 35.790602",
+        "e2act": "true",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
@@ -722,7 +759,13 @@
         "stdParking": 205,
         "hcParking": 6,
         "elecParking": 0,
-        "restrictions": ""
+        "restrictions": "",
+        "e1act": "true",
+        "note": "",
+        "entrance1": "35.789145, -78.778944",
+        "entrance2": "-78.778388, 35.790087",
+        "e2act": "true",
+        "townowned": "true"
       },
       "geometry": {
         "type": "Polygon",
