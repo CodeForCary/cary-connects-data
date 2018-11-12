@@ -12,7 +12,7 @@
         "website": "www.academystreetbistro.com",
         "phone": "(919) 377-0509",
         "note": "",
-        "hocamember": "FALSE"
+        "hocamember": "false"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Cary Convenience and Tobacco",
         "address": "260 W. Chatham Street, Cary, NC 27511",
         "website": "",
@@ -237,7 +237,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Creative Screening",
         "address": "303 E Durham Rd, Cary, NC 27513",
         "website": "www.facebook.com/pages/Creative-Screening",
@@ -258,7 +258,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Glass Law Group",
         "address": "201 W. Chatham Street, Cary, NC 27511",
         "website": "www.glasslawnc.com",
@@ -510,7 +510,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Alisa Huffman Family & Elder Law ",
         "address": "311 S. Academy Street, Cary, NC 27511",
         "website": "www.alisahuffman.com",
@@ -552,7 +552,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Cofounders Capital",
         "address": "122 E. Chatham Street, Cary, NC 27511",
         "website": "cofounderscapital.com",
@@ -594,7 +594,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Escentuelle",
         "address": "417 Kildaire Farm Rd., Cary, NC 27511",
         "website": "www.escentuelle.com",
@@ -615,7 +615,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Everything's Better Monogrammed",
         "address": "114 S. Academy Street, Cary, NC 27511",
         "website": "everythingsbettermonogrammed.com",
@@ -657,7 +657,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Juice Vapeorium Vape Shop",
         "address": "8420 Chapel Hill Rd., Cary, NC 27513",
         "website": "www.facebook.com/juicevapeorium",
@@ -699,7 +699,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "hairdresser",
         "name": "Papillon Salon",
         "address": "800 Parkthrough Street, Cary, NC 27511",
         "website": "ww.papillonthesalon.com",
@@ -741,7 +741,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "restaurant",
         "name": "Fresh Local Ice Cream",
         "address": "138 E. Chatham Street, Cary, NC 27511",
         "website": "freshlocalicecream.com",
@@ -846,7 +846,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Red Leaf Tattoo",
         "address": "8450 Chapel Hill Rd #107, Cary, NC 27513",
         "website": "www.redleaftattoostudio.com",
@@ -888,7 +888,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "building",
+        "marker-symbol": "circle",
         "name": "The Scott Korbin Agency",
         "address": "209 S. Academy Street, Cary, NC 27511",
         "website": "scottkorbin.hpw.com",
