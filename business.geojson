@@ -12,7 +12,8 @@
         "website": "www.academystreetbistro.com",
         "phone": "(919) 377-0509",
         "note": "",
-        "hocamember": "false"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +34,8 @@
         "website": "anneloresbakery.com",
         "phone": "(919) 267-6846",
         "note": "",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +56,8 @@
         "website": "www.ashworthdrugs.com",
         "phone": "(919) 467-1877",
         "note": "Pharmacy, hot dogs, shakes and more",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +78,8 @@
         "website": "www.bondbrothersbeer.com",
         "phone": "919.459.2670",
         "note": "Food Trucks: https://www.bondbrothersbeer.com/food-trucks",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +100,8 @@
         "website": "www.townofcary.org/recreation-enjoyment/facilities/cary-arts-center",
         "phone": "(919) 469-4069",
         "note": "431-seat Theater",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +122,8 @@
         "website": "",
         "phone": "404-578-0372",
         "note": "Convenience Store - Sells Propane",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +144,8 @@
         "website": "www.caryflorist.com",
         "phone": " 919-694-1600",
         "note": "Florist Shop",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +166,8 @@
         "website": "",
         "phone": "(919) 462-9666",
         "note": "",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -180,7 +188,8 @@
         "website": "www.caryschoolofmusic.com",
         "phone": "919-460-0052",
         "note": "Music School",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +210,8 @@
         "website": "www.chathamhillwine.com",
         "phone": "(919) 380-7135",
         "note": "",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +232,8 @@
         "website": "www.citygardendesign.com",
         "phone": "919-538-4247",
         "note": "",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +254,8 @@
         "website": "www.facebook.com/pages/Creative-Screening",
         "phone": "(919) 467-5081",
         "note": "",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +276,8 @@
         "website": "www.glasslawnc.com",
         "phone": "919-948-7633",
         "note": "Estate Law Firm",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +298,8 @@
         "website": "jordanlakebrewing.com",
         "phone": "(919) 694-5096",
         "note": "Food Trucks: http://jordanlakebrewing.com/#food",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +320,8 @@
         "website": "kababishcafe.com",
         "phone": "(919) 377-8794",
         "note": "",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +342,8 @@
         "website": "www.lafarmbakery.com",
         "phone": "919-650-3117",
         "note": "Bakery & Cafe",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -348,7 +364,8 @@
         "website": "",
         "phone": "919-467-1152",
         "note": "Tailor/Cleaner",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +386,8 @@
         "website": "www.naturalesthetics.org",
         "phone": "336-862-6946",
         "note": "Skincare",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -390,7 +408,8 @@
         "website": "",
         "phone": "919-377-0080",
         "note": " Jewelry",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -411,7 +430,8 @@
         "website": "",
         "phone": "919-469-9913",
         "note": "Dog Grooming",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -432,7 +452,8 @@
         "website": "www.ratatat-tats.com",
         "phone": "(919) 377-2035",
         "note": "Tatoo Parlor",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -453,7 +474,8 @@
         "website": "tartsbarbershop.com",
         "phone": "(919) 467-8479",
         "note": "Barber",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -474,7 +496,8 @@
         "website": "www.villageartcircle.com",
         "phone": "(919) 210-0398",
         "note": "",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +518,8 @@
         "website": "www.woodysportstavern.co",
         "phone": "(919) 380-7737",
         "note": "Restaurant and Pub",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +540,8 @@
         "website": "www.alisahuffman.com",
         "phone": "(919) 655-0414",
         "note": "Attorney",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +562,8 @@
         "website": "cary.aradiafitness.com",
         "phone": "(919) 801-2141",
         "note": "Pole Fitness",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -558,7 +584,8 @@
         "website": "cofounderscapital.com",
         "phone": "",
         "note": "Business Incubator",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -579,7 +606,8 @@
         "website": "www.crosstowndowntown.com",
         "phone": "(919) 650-2853",
         "note": "Restaurant and Pub",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -600,7 +628,8 @@
         "website": "www.escentuelle.com",
         "phone": "(919) 659-5661",
         "note": "Perfumery",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +650,8 @@
         "website": "everythingsbettermonogrammed.com",
         "phone": "(919) 694-3261",
         "note": "Boutique",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -642,7 +672,8 @@
         "website": "www.impcary.com",
         "phone": "(919) 466-1095",
         "note": "Printer",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +694,8 @@
         "website": "www.facebook.com/juicevapeorium",
         "phone": "(919) 659-5646",
         "note": "Vaping Supplies",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -684,7 +716,8 @@
         "website": "www.nationalgunsandgear.com",
         "phone": "(919) 439-0104",
         "note": "Outdoor Gear",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +738,8 @@
         "website": "ww.papillonthesalon.com",
         "phone": "(919) 815-1306",
         "note": "Hair Salon",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -726,7 +760,8 @@
         "website": "pharmacybottlebeverage.com",
         "phone": "(919) 234-1098",
         "note": "Beer Store and Pub",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -747,7 +782,8 @@
         "website": "freshlocalicecream.com",
         "phone": "(919) 234-1155",
         "note": "Ice Cream Shop",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -768,7 +804,8 @@
         "website": "pizzeriafaulisi.com",
         "phone": "",
         "note": "Pizza Restaurant",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +826,8 @@
         "website": "postmastercary.com",
         "phone": "(919) 378-9493",
         "note": "Restaurant",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -810,7 +848,8 @@
         "website": "prosepicurean.com",
         "phone": "(919) 377-1788",
         "note": "Italian Market and Caf�",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +870,8 @@
         "website": "www.probarbersofcary.com",
         "phone": "(919) 467-1601",
         "note": "Barber",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -852,7 +892,8 @@
         "website": "www.redleaftattoostudio.com",
         "phone": "(919) 234-0271",
         "note": "Tatoo Parlor",
-        "hocamember": "FALSE"
+        "hocamember": "FALSE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -873,7 +914,8 @@
         "website": "maytoninn.com",
         "phone": "(919) 670-5000",
         "note": "Hotel",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
@@ -894,7 +936,8 @@
         "website": "scottkorbin.hpw.com",
         "phone": "(919) 606-4500",
         "note": "Realtor",
-        "hocamember": "TRUE"
+        "hocamember": "TRUE",
+        "active": "TRUE"
       },
       "geometry": {
         "type": "Point",
