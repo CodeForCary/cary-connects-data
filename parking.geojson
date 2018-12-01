@@ -1875,6 +1875,291 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "The Perfect Piece",
+        "stdParking": -1,
+        "hcParking": -1,
+        "elecParking": 0,
+        "restrictions": "TOW AWAY ZONE - Business ONLY",
+        "note": "",
+        "entrance1": "-78.777985, 35.787433",
+        "e1act": "true",
+        "entrance2": "-78.778524, 35.787097",
+        "e2act": "true",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.778253, 35.787123",
+        "active": "false"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.77837777137756,
+              35.787384062538024
+            ],
+            [
+              -78.77837777137756,
+              35.787331843606296
+            ],
+            [
+              -78.77845287322998,
+              35.787297030966094
+            ],
+            [
+              -78.77845287322998,
+              35.78714037389644
+            ],
+            [
+              -78.77853333950043,
+              35.78712296753632
+            ],
+            [
+              -78.77853870391846,
+              35.78667040083487
+            ],
+            [
+              -78.7783294916153,
+              35.78667910406499
+            ],
+            [
+              -78.7783294916153,
+              35.78705769365188
+            ],
+            [
+              -78.7776267528534,
+              35.78707510002631
+            ],
+            [
+              -78.7776482105255,
+              35.78741887514011
+            ],
+            [
+              -78.77837777137756,
+              35.787384062538024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "156 E. Chatham",
+        "stdParking": -1,
+        "hcParking": -1,
+        "elecParking": 0,
+        "restrictions": "TOW AWAY ZONE - Business ONLY",
+        "note": "",
+        "entrance1": "-78.779459, 35.787362",
+        "e1act": "true",
+        "entrance2": "",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.779612, 35.787277",
+        "active": "false"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.77970814704895,
+              35.78722740563992
+            ],
+            [
+              -78.77953112125397,
+              35.78722740563992
+            ],
+            [
+              -78.77953112125397,
+              35.78734489834245
+            ],
+            [
+              -78.77972960472107,
+              35.787331843606296
+            ],
+            [
+              -78.77970814704895,
+              35.78722740563992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "122 E. Chatham",
+        "stdParking": -1,
+        "hcParking": -1,
+        "elecParking": 0,
+        "restrictions": "Reserved Parking Marked",
+        "note": "",
+        "entrance1": "-78.780101, 35.787343",
+        "e1act": "true",
+        "entrance2": "",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.780151, 35.787153",
+        "active": "true"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.78016948699951,
+              35.787310085707944
+            ],
+            [
+              -78.78015875816345,
+              35.78701852929547
+            ],
+            [
+              -78.78010511398314,
+              35.78707510002631
+            ],
+            [
+              -78.78010511398314,
+              35.7873144372881
+            ],
+            [
+              -78.78016948699951,
+              35.787310085707944
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "120 E. Chatham",
+        "stdParking": -1,
+        "hcParking": -1,
+        "elecParking": 0,
+        "restrictions": "Reserved as Marked",
+        "entrance1": "-78.780690, 35.78727",
+        "e1act": "true",
+        "entrance2": "",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.78069, 35.787121",
+        "active": "true"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.78079175949095,
+              35.78719694454054
+            ],
+            [
+              -78.78078639507294,
+              35.78697936491977
+            ],
+            [
+              -78.78072202205658,
+              35.787001122908656
+            ],
+            [
+              -78.78067910671234,
+              35.786996771311344
+            ],
+            [
+              -78.78061473369598,
+              35.78700982610253
+            ],
+            [
+              -78.78061473369598,
+              35.78720999929885
+            ],
+            [
+              -78.78072738647461,
+              35.78724046039322
+            ],
+            [
+              -78.78079175949095,
+              35.78719694454054
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "122 E. Chatham - Back",
+        "stdParking": -1,
+        "hcParking": -1,
+        "elecParking": 0,
+        "entrance1": "-78.780101, 35.787343",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.780346, 35.786927",
+        "active": "true"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.78045380115509,
+              35.786966310123596
+            ],
+            [
+              -78.78044843673705,
+              35.7869140909174
+            ],
+            [
+              -78.78022313117981,
+              35.7869140909174
+            ],
+            [
+              -78.78022849559784,
+              35.786975013321296
+            ],
+            [
+              -78.78045380115509,
+              35.786966310123596
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
