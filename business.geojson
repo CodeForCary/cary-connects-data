@@ -1121,6 +1121,50 @@
           35.78701417769913
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "name": "Maximillians Grill & Wine Bar",
+        "address": "8314 Chapel Hill Rd, Cary, NC 27513",
+        "website": "maximilliansgrill.com",
+        "phone": "(919) 465-2455",
+        "note": "",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77604961395264,
+          35.79220111142092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "restaurant",
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "name": "BottleDog Bites & Brews",
+        "address": "8306 Chapel Hill Rd, Cary, NC 27513",
+        "website": "bottledogcary.com",
+        "phone": "(919) 694-5377",
+        "note": "",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77606838941574,
+          35.79247524363311
+        ]
+      }
     }
   ]
 }
