@@ -1105,7 +1105,7 @@
       "properties": {
         "marker-color": "#0433ff",
         "marker-size": "medium",
-        "marker-symbol": "shop",
+        "marker-symbol": "circle",
         "name": "Frantz Automotive Center",
         "address": "410 W Chatham St, Cary, NC 27511",
         "website": " frantzautomotive.com",
