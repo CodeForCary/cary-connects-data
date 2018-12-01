@@ -1077,6 +1077,50 @@
           35.787096857988956
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Havana Grill",
+        "address": "404 W Chatham St, Cary, NC 27511",
+        "website": "havanagrillcary.com",
+        "phone": "(919) 460-8662",
+        "note": "Cuban, Mexican, El Salvadorian Food",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7885594367981,
+          35.78707945161931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "name": "Frantz Automotive Center",
+        "address": "410 W Chatham St, Cary, NC 27511",
+        "website": " frantzautomotive.com",
+        "phone": "(919) 469-5423",
+        "note": "Auto Repair",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.788902759552,
+          35.78701417769913
+        ]
+      }
     }
   ]
 }
