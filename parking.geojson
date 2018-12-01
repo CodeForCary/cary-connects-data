@@ -1644,6 +1644,237 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "Annelore's front",
+        "stdParking": -1,
+        "hcParking": 0,
+        "elecParking": 0,
+        "restrictions": "Business Parking Only",
+        "note": "",
+        "entrance1": "-78.786450, 35.786972",
+        "e1act": "true",
+        "entrance2": "",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.786567, 35.787044",
+        "active": "true"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.78661751747131,
+              35.78697066172256
+            ],
+            [
+              -78.78642976284026,
+              35.786988068116045
+            ],
+            [
+              -78.78646194934845,
+              35.7871012095808
+            ],
+            [
+              -78.78664433956146,
+              35.78707945161931
+            ],
+            [
+              -78.78661751747131,
+              35.78697066172256
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "Annelore's back",
+        "stdParking": -1,
+        "hcParking": 0,
+        "elecParking": 0,
+        "restrictions": "Business Parking Only",
+        "note": "",
+        "entrance1": "-78.786450, 35.786972",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.786587, 35.787356",
+        "active": "true"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.78674626350403,
+              35.787440633008664
+            ],
+            [
+              -78.78673017024994,
+              35.78730573412756
+            ],
+            [
+              -78.7864351272583,
+              35.787331843606296
+            ],
+            [
+              -78.78646731376648,
+              35.78746674244308
+            ],
+            [
+              -78.78674626350403,
+              35.787440633008664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "Chocolate Smiles",
+        "stdParking": -1,
+        "hcParking": -1,
+        "elecParking": 0,
+        "restrictions": "Business Parking Only",
+        "note": "",
+        "entrance1": "-78.786812, 35.786938",
+        "e1act": "true",
+        "entrance2": "",
+        "e2act": "",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.786856, 35.787244",
+        "active": "true"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.7871754169464,
+              35.78742322671429
+            ],
+            [
+              -78.78717005252838,
+              35.78730138254694
+            ],
+            [
+              -78.78697693347931,
+              35.787331843606296
+            ],
+            [
+              -78.78692865371704,
+              35.78706639683955
+            ],
+            [
+              -78.78673017024994,
+              35.787070748433045
+            ],
+            [
+              -78.78677308559416,
+              35.7873971172656
+            ],
+            [
+              -78.78683745861053,
+              35.78738841411411
+            ],
+            [
+              -78.78684282302856,
+              35.78744933615443
+            ],
+            [
+              -78.7871754169464,
+              35.78742322671429
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0433ff",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "fill": "#00fdff",
+        "fill-opacity": 0.5,
+        "name": "Havana Grill",
+        "stdParking": -1,
+        "hcParking": -1,
+        "elecParking": 0,
+        "restrictions": "Business Parking Only",
+        "note": "",
+        "entrance1": "-78.788528, 35.786773",
+        "e1act": "true",
+        "entrance2": "-78.788207, 35.787278",
+        "e2act": "true",
+        "townowned": "false",
+        "lotactive": "true",
+        "lotcenter": "-78.788405, 35.786954",
+        "active": "true"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.78866672515868,
+              35.786988068116045
+            ],
+            [
+              -78.78863990306854,
+              35.786787894360785
+            ],
+            [
+              -78.78817319869995,
+              35.78682270722401
+            ],
+            [
+              -78.78824293613432,
+              35.787297030966094
+            ],
+            [
+              -78.78844678401947,
+              35.78727092147591
+            ],
+            [
+              -78.78841996192932,
+              35.787022880891584
+            ],
+            [
+              -78.78864526748657,
+              35.786996771311344
+            ],
+            [
+              -78.78866672515868,
+              35.786988068116045
+            ]
+          ]
+        ]
+      }
     }
   ]
 }
