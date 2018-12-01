@@ -946,6 +946,137 @@
           35.785853
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Chatham Street Wine Market",
+        "address": "111 W. Chatham Street, Cary, NC 27511",
+        "website": "chathamstreetwine.com",
+        "phone": "(919) 377-2988",
+        "note": "Wine Shop",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78163933753967,
+          35.78719694454054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "bakery",
+        "name": "Once In A Blue Moon Bakery & Cafe",
+        "address": "115 W. Chatham Street, Ste G, Cary, NC 27511",
+        "website": "bluemoonbakery.com",
+        "phone": "(919) 319-6554",
+        "note": "",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78191292285919,
+          35.78666169760382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Serendipity Gourmet Deli",
+        "address": "118 S. Academy Street, Cary, NC 27511",
+        "website": "serendipitygourmetdelinc.com",
+        "phone": "(919) 469-1655",
+        "note": "",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78138720989227,
+          35.78676178470338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Roma's Italian Deli & Pizzeria",
+        "address": "203 N Harrison Ave, Cary, NC 27513",
+        "website": "romasitalian.net",
+        "phone": "(919) 468-1111",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78357589244843,
+          35.788049850910134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "name": "The Neighborhood Sports Bar and Arcade",
+        "address": "301 N Harrison Ave, Cary, NC 27513",
+        "website": "neighborhoodbararcade.com",
+        "phone": "(919) 377-2344",
+        "note": "Bar & Arcade",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78395140171051,
+          35.788920154097305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Chocolate Smiles",
+        "address": "312 W Chatham St Suite 101, Cary, NC 27511",
+        "website": "chocolatesmiles.com",
+        "phone": "(919) 469-5282",
+        "note": "Chocolates and gifts",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7869930267334,
+          35.787096857988956
+        ]
+      }
     }
   ]
 }
