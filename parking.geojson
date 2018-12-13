@@ -22,7 +22,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.781746, 35.782705",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -72,7 +73,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.782194, 35.782063",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -150,7 +152,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.782146, 35.784191",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -219,7 +222,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.782229, 35.781528",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -277,7 +281,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.779279, 35.786133",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -336,7 +341,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.779942, 35.787020",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -387,7 +393,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.780062, 35.786600",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -437,7 +444,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.780681, 35.788303",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -486,7 +494,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.780467, 35.788552",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -536,7 +545,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.780314, 35.788845",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -666,7 +676,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.780560, 35.790309",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -753,7 +764,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.779092, 35.790589",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -804,7 +816,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.778418, 35.789464",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -870,7 +883,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.782351, 35.788453",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -960,7 +974,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.781883, 35.787744",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1051,7 +1066,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.777360, 35.788359",
-        "active": "true"
+        "active": "true",
+        "category": "public"
       },
       "geometry": {
         "type": "Polygon",
@@ -1108,7 +1124,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.780856, 35.786051",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1179,7 +1196,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.783572, 35.787493",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1230,7 +1248,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.784280, 35.787369",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1278,7 +1297,8 @@
         "townowned": "true",
         "lotactive": "true",
         "lotcenter": "-78.780472, 35.786343",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1329,7 +1349,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.778161, 35.787650",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1403,7 +1424,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.783044, 35.786725",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1465,7 +1487,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.781732, 35.786820",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1544,7 +1567,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.778886, 35.788029",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1615,7 +1639,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.780501, 35.787693",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1665,7 +1690,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.786567, 35.787044",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1716,7 +1742,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.786587, 35.787356",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1767,7 +1794,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.786856, 35.787244",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1834,7 +1862,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.788405, 35.786954",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -1897,7 +1926,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.778253, 35.787123",
-        "active": "false"
+        "active": "false",
+        "category": "private"
       },
       "geometry": {
         "type": "Polygon",
@@ -1971,7 +2001,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.779612, 35.787277",
-        "active": "false"
+        "active": "false",
+        "category": "private"
       },
       "geometry": {
         "type": "Polygon",
@@ -2021,7 +2052,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.780151, 35.787153",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -2070,7 +2102,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.78069, 35.787121",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
@@ -2131,7 +2164,8 @@
         "townowned": "false",
         "lotactive": "true",
         "lotcenter": "-78.780346, 35.786927",
-        "active": "true"
+        "active": "true",
+        "category": "restricted"
       },
       "geometry": {
         "type": "Polygon",
