@@ -480,7 +480,7 @@
         "hcParking": 0,
         "elecParking": 0,
         "restrictions": "None",
-        "entrance1": " -78.780738, 35.788625",
+        "entrance1": "-78.780738, 35.788625",
         "e1act": "true",
         "entrance2": "",
         "townowned": "true",
