@@ -1208,6 +1208,28 @@
           35.78720999929885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "theatre",
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "name": "The Cary Theater",
+        "address": "122 E Chatham St, Cary, NC 27511",
+        "website": "thecarytheater.com",
+        "phone": "(919) 462-2051",
+        "note": "Movies, Music, Comedy, and more",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7803840637207,
+          35.78725351514438
+        ]
+      }
     }
   ]
 }
