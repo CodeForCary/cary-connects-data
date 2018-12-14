@@ -1165,6 +1165,49 @@
           35.79247524363311
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "park2",
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "name": "Downtown Park",
+        "address": "319 S. Academy Street, Cary, NC 27511",
+        "website": "www.townofcary.org/recreation-enjoyment/parks-greenways-environment/parks/downtown-park",
+        "phone": "",
+        "note": "",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7808346748352,
+          35.78342402953597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
+        "name": "Brew Coffee Bar",
+        "address": "120 E. Chatham Street, Cary, NC 27511",
+        "website": "www.brewcoffeebar.co/",
+        "phone": "(919) 377-1472",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78028213977814,
+          35.78720999929885
+        ]
+      }
     }
   ]
 }
