@@ -1230,6 +1230,27 @@
           35.78725351514438
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Cary Innovation Center",
+        "address": "201 W. Chatham St, Cary, NC 27511",
+        "website": "caryinnovationcenter.com",
+        "phone": "(919) 271-3079",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7836080789566,
+          35.78697936491977
+        ]
+      }
     }
   ]
 }
