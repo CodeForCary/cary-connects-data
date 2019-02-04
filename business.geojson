@@ -1251,6 +1251,28 @@
           35.78697936491977
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+        "name": "Cotton House Craft Brewers",
+        "address": "307 Academy Street, Cary, NC 27511",
+        "website": "cottonhousecraft.com",
+        "phone": "",
+        "note": "",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78094732761383,
+          35.78450761861216
+        ]
+      }
     }
   ]
 }
