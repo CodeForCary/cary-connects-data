@@ -1259,7 +1259,7 @@
         "marker-size": "medium",
         "marker-symbol": "bar",
         "name": "Cotton House Craft Brewers",
-        "address": "307 Academy Street, Cary, NC 27511",
+        "address": "307 S. Academy Street, Cary, NC 27511",
         "website": "cottonhousecraft.com",
         "phone": "",
         "note": "",
@@ -1271,6 +1271,28 @@
         "coordinates": [
           -78.78094732761383,
           35.78450761861216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "town-hall",
+        "name": "Cary Town Hall",
+        "address": "316 N. Academy Street, Cary, NC 27513",
+        "website": "www.townofcary.org",
+        "phone": "(919) 469-4000",
+        "note": "",
+        "hocamember": "FALSE",
+        "active": "TRUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78058791160583,
+          35.789416222649635
         ]
       }
     }
