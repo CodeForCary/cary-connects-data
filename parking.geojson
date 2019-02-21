@@ -1562,7 +1562,7 @@
         "stdParking": 30,
         "hcParking": 0,
         "elecParking": 0,
-        "restrictions": "Business Parking",
+        "restrictions": "Tow Away Zone: Business Parking",
         "note": "",
         "entrance1": "-78.778665, 35.788012",
         "e1act": "true",
@@ -1572,7 +1572,7 @@
         "lotactive": "true",
         "lotcenter": "-78.778886, 35.788029",
         "active": "true",
-        "category": "restricted"
+        "category": "private"
       },
       "geometry": {
         "type": "Polygon",
