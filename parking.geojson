@@ -285,7 +285,8 @@
         "lotcenter": "-78.779279, 35.786133",
         "active": "false",
         "category": "restricted",
-        "inactiveStart": "2019-05-01"
+        "inactiveStart": "2019-04-29",
+        "inactiveEnd": "2019-05-01"
       },
       "geometry": {
         "type": "Polygon",
